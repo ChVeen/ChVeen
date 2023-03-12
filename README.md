@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-Okay, the banner only tells half the truth, I'm a **Senior Software Engineer** and **Computer Scientist** as well :sunglasses:
+Okay, the banner only tells half the truth, I'm a <b>Senior Software Engineer</b> and <b>Computer Scientist</b> as well :sunglasses:
 </p>
 
 <br>
