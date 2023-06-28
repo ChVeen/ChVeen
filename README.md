@@ -77,5 +77,5 @@ My preferred tech stack in a more readable way:
 
 #
 <p align="center">
-See my [credits](credits.md).
+See my <a href="credits.md">credits</a>.
 </p>
