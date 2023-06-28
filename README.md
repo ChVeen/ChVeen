@@ -74,3 +74,8 @@ My preferred tech stack in a more readable way:
   </td>
 </tr>
 </table>
+
+#
+<p align="center">
+See my [credits](credits.md).
+</p>
