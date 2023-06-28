@@ -1,10 +1,6 @@
-![Header](./images/github-header-image.png)
+# Computer Scientist focused on...
 
-<br>
-
-<p align="center">
-Okay, the banner only tells half the truth, I'm a <b>Senior Software Engineer</b> and <b>Computer Scientist</b> as well :sunglasses:
-</p>
+<p align="center"> <img src="./images/topics-wordcloud.png"> </p>
 
 <br>
 
